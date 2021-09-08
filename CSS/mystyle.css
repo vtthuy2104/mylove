@@ -40,74 +40,74 @@ li {
 }
 
 .minbox li:nth-child(1) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: translateZ(50px);
     background-size: cover;
 }
 
 .minbox li:nth-child(2) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: rotateX(180deg) translateZ(50px);
     background-size: cover;
 }
 
 .minbox li:nth-child(3) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: rotateX(-90deg) translateZ(50px);
     background-size: cover;
 }
 
 .minbox li:nth-child(4) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: rotateX(90deg) translateZ(50px);
     background-size: cover;
 }
 
 .minbox li:nth-child(5) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: rotateY(-90deg) translateZ(50px);
     background-size: cover;
 }
 
 .minbox li:nth-child(6) {
-    background: url('../images/hmm1.png') no-repeat 0 0;
+    background: url('../images/xuan2.png') no-repeat 0 0;
     transform: rotateY(90deg) translateZ(50px);
     background-size: cover;
 }
 
 .maxbox li:nth-child(1) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: translateZ(50px);
     background-size: 100% 100%;
     transform: translateZ(100px);
 }
 
 .maxbox li:nth-child(2) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: rotateX(180deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(3) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: rotateX(-90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(4) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: rotateX(90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(5) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: rotateY(-90deg) translateZ(100px);
     background-size: 100% 100%;
 }
 
 .maxbox li:nth-child(6) {
-    background: url('../images/hmm.png') no-repeat 0 0;
+    background: url('../images/xuan1.png') no-repeat 0 0;
     transform: rotateY(90deg) translateZ(100px);
     background-size: 100% 100%;
 }
